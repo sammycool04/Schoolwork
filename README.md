@@ -1,1 +1,1 @@
-Practice on various data-related problems
+A few schoolwork assignments
