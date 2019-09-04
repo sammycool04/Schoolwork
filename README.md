@@ -1,1 +1,1 @@
-A few schoolwork assignments
+A few schoolwork assignments and self-learning projects
